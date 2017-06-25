@@ -7,10 +7,13 @@ Standard
 -----------
 
 `make`
+
 `make flash`
 
 Bootload
 -----------
 `make bootload`
+
 `gflash build/blinky_bootload.bin`
+
 `gflash b`

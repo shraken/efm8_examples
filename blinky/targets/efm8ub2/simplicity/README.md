@@ -18,5 +18,7 @@ Convert the hex file to binary and remove the first 0x0400 bytes
 in the resulting binary image.
 
 `srec_cat -Disable_Sequence_Warnings Objects/blinky.hex -Intel -offset -0x0400 -Output Objects/blinky.bin -Binary`
+
 `gflash blinky.bin`
+
 `gflash b`
