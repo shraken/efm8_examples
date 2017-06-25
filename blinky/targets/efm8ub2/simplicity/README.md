@@ -19,6 +19,6 @@ in the resulting binary image.
 
 `srec_cat -Disable_Sequence_Warnings Objects/blinky.hex -Intel -offset -0x0400 -Output Objects/blinky.bin -Binary`
 
-`gflash blinky.bin`
+`gflash_cli blinky.bin`
 
-`gflash b`
+`gflash_cli b`

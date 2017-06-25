@@ -14,6 +14,6 @@ Bootload
 -----------
 `make bootload`
 
-`gflash build/blinky_bootload.bin`
+`gflash_cli build/blinky_bootload.bin`
 
-`gflash b`
+`gflash_cli b`
