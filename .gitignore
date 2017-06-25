@@ -1,0 +1,9 @@
+blinky/targets/efm8ub2/sdcc/build/*
+blinky/targets/efm8ub2/keil/standard/Objects/*
+blinky/targets/efm8ub2/keil/standard/Listings/*
+blinky/targets/efm8ub2/keil/bootload/Objects/*
+blinky/targets/efm8ub2/keil/bootload/Listings/*
+blinky/targets/efm8ub2/simplicity/standard/Keil*
+blinky/targets/efm8ub2/simplicity/standard/Keil*
+blinky/targets/efm8ub2/simplicity/bootload/Keil*
+blinky/targets/efm8ub2/simplicity/bootload/Keil*
